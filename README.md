@@ -159,11 +159,12 @@ This project demonstrates the power of **Power BI** in building real-world analy
 ## 👨‍💻 Author
 
 **Oladotun Olawale**
-📧 [oladotunolawale29@yahoo.com]
-🌐 [http://www.linkedin.com/in/oladotun-olawale]
 
----
+📧 Email: oladotunolawale29@yahoo.com
 
+🔗 LinkedIn: http://www.linkedin.com/in/oladotun-olawale
+
+💼 Portfolio: https://github.com/Dannywhilz001
 ## 🏷 GitHub Topics
 
 `#powerbi` `#data-analytics` `#dashboard` `#automotive` `#used-cars` `#data-visualization` `#dax` `#excel` `#business-intelligence`
